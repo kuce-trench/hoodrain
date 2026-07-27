@@ -2,7 +2,7 @@
 
 ## Background
 
-Robinhood Chain launched on July 1, 2026. Within weeks, thousands of tokens were being created daily on launchpads like pons.family. Projects wanted to reward their communities, but there was no standard way to do it.
+Robinhood Chain launched on July 1, 2026. Within weeks, thousands of new tokens were being created daily across the ecosystem. Projects wanted to reward their communities, but there was no standard way to do it.
 
 Sending ETH to holders manually is impossible at scale — a token can have thousands of wallets. Building a custom distribution contract requires Solidity knowledge most teams don't have. And existing solutions on other chains don't support Robinhood Chain.
 
@@ -12,7 +12,7 @@ HoodRain solves this. One contract, one script, any token, any amount of ETH.
 
 Most "airdrop" tools distribute tokens. HoodRain distributes **ETH** — the native asset everyone already has a wallet for. No token approvals, no wrapping, no bridging. Just ETH directly to holders.
 
-Unlike Pons Fork (which automates a token creator's own fee income), HoodRain is open to **anyone**:
+HoodRain is open to **anyone**:
 
 - A project team rewarding their community after a milestone
 - A whale gifting ETH to small holders of a token they believe in  

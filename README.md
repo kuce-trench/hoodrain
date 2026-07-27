@@ -14,7 +14,7 @@
 
 HoodRain lets anyone deposit ETH and distribute it proportionally to all holders of any ERC20 token on Robinhood Chain.
 
-Unlike Pons Fork (which routes a token's own fee income), HoodRain is **open to anyone**:
+HoodRain is **open to anyone**:
 - A project team can reward their community
 - A whale can gift ETH to small holders of a token they love
 - A DAO can pay dividends
